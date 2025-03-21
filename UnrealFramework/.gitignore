@@ -72,3 +72,12 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+/.vs
+/.vscode
+/.vsconfig
+/UnrealFramework.code-workspace
+/Content
+/DerivedDataCache
+/Intermediate
+/Saved
